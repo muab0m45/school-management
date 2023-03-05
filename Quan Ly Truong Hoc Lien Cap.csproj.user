@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmAddCTH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAddGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAddHS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAddLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAddMH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAddPH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCTHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmHocSinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLuuTru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNamHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPhongHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
